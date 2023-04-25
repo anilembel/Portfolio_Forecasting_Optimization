@@ -3,7 +3,7 @@
 
 
  <p align="center">
-  <img src="https://becode.org/app/uploads/2020/03/cropped-becode-logo-seal.png" alt="Logo" width="200" height="200">
+  <img src="https://i.imgyukle.com/2023/04/25/Q9gG4c.png" alt="Logo" width="500" height="200">
 </p>
 
 <h2 align="center"> Finance Project in our AI specialization at <a href="https://github.com/becodeorg"><strong>BeCode</strong></a></h2><br><br>
